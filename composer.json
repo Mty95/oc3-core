@@ -13,7 +13,7 @@
     "monolog/monolog": "2.1.*"
   },
   "license": [
-    "Proprietary"
+    "GPL-3.0-only"
   ],
   "autoload": {
     "psr-4": {
