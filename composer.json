@@ -1,5 +1,13 @@
 {
+  "name": "mty95/oc3-core",
+  "description": "Opencart 3 Core Extension",
   "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Alberto Yauri",
+      "homepage": "https://www.mty95dev.ml"
+    }
+  ],
   "require": {
     "php": "^7.1",
     "monolog/monolog": "2.1.*"
