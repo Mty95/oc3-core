@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "require": {
+    "php": "^7.1",
+    "monolog/monolog": "2.1.*"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mty95\\Core\\": "src/"
+    }
+  },
+  "require-dev": {
+    "spatie/ray": "^1.9"
+  }
+}
